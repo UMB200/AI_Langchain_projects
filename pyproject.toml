@@ -1,5 +1,5 @@
 [project]
-name = "Agent_search"
+name = "Agent_search_with_structured_output"
 version = "0.1.0"
 description = "Job postings agent using Tavily Tools to find jobs based on input"
 readme = "README.md"
